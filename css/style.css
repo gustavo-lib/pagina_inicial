@@ -1,0 +1,25 @@
+.header{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.header {
+    background-color: black;
+    
+}
+
+.content{
+    background-color: blueviolet;
+    height: 100%;
+}
+
+.footer {
+    padding: 20 px;
+    margin:0;
+    position: absolute;
+    width: 95%;
+    bottom: 0;
+}
+
+
